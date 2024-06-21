@@ -10,9 +10,9 @@ I'm currently the BackEnd Software Engineer based in Santiago, Chile. I am worki
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=x&logoColor=white)](https://twitter.com/folivaresrios)
 
 ## 📚 About me
- - 🧠I love to learn new things and share knowledge with others.
- - 👾I'm a fan of video games, anime, and technology.
- - 👨🏽‍💻I love to work with the latest technologies and tools.
+ - 🧠 I love to learn new things and share knowledge with others.
+ - 👾 I'm a fan of video games, anime, and technology.
+ - 👨🏽‍💻 I love to work with the latest technologies and tools.
  - 🏔️ I love to travel and meet new places.
  - 📙 Check out my [resume](https://drive.google.com/file/d/1Zyutq1Fo5vwNq6EiHmoy_imTDymkU7eo/view)
 
