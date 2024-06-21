@@ -1,0 +1,28 @@
+#Editor files
+/.fleet
+/.idea
+/.vscode
+
+#Build package files
+/public/build
+/public/hot
+/public/storage
+
+#Dependency files
+/node_modules
+/vendor
+
+#Key files
+/storage/*.key
+
+#Logs
+npm-debug.log
+yarn-error.log
+
+#Miscellaneous
+/.phpunit.cache
+.phpactor.json
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
